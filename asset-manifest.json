@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lynqdemo/static/css/main.a50eb33f.chunk.css",
+    "main.js": "/lynqdemo/static/js/main.578b867a.chunk.js",
+    "main.js.map": "/lynqdemo/static/js/main.578b867a.chunk.js.map",
+    "runtime-main.js": "/lynqdemo/static/js/runtime-main.d4b36fb0.js",
+    "runtime-main.js.map": "/lynqdemo/static/js/runtime-main.d4b36fb0.js.map",
+    "static/js/2.da676d8e.chunk.js": "/lynqdemo/static/js/2.da676d8e.chunk.js",
+    "static/js/2.da676d8e.chunk.js.map": "/lynqdemo/static/js/2.da676d8e.chunk.js.map",
+    "index.html": "/lynqdemo/index.html",
+    "precache-manifest.edad36a61843373358c2d29bea5a45e3.js": "/lynqdemo/precache-manifest.edad36a61843373358c2d29bea5a45e3.js",
+    "service-worker.js": "/lynqdemo/service-worker.js",
+    "static/css/main.a50eb33f.chunk.css.map": "/lynqdemo/static/css/main.a50eb33f.chunk.css.map",
+    "static/js/2.da676d8e.chunk.js.LICENSE": "/lynqdemo/static/js/2.da676d8e.chunk.js.LICENSE",
+    "static/media/logo.svg": "/lynqdemo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4b36fb0.js",
+    "static/js/2.da676d8e.chunk.js",
+    "static/css/main.a50eb33f.chunk.css",
+    "static/js/main.578b867a.chunk.js"
+  ]
+}
