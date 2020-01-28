@@ -27,6 +27,9 @@ function App() {
     const nextCartItems = cartItems.filter(item => item.id !== id);
     setCartItems(nextCartItems);
     setFullPrice(fullPrice - itemPrice);
+    if (cartStatus === 'half-opened') {
+      setCartStatatus('closed');
+    }
   };
   const changePrice = (priceDiff, id, isIncrement) => {
     setFullPrice(fullPrice + priceDiff)

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-export const CartItem = ({ item, removeItem, changePrice }) => {
+export const CartItem = ({ item = {}, removeItem, changePrice }) => {
   // const [itemsCount, setItemsCount] = useState(item.count);
   console.log(item.price, )
   return (
